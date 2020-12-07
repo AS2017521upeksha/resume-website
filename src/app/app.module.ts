@@ -19,13 +19,17 @@ import { StorageModule } from '@ngx-pwa/local-storage';
 import { HomepageComponent } from './pages/homepage/homepage.component';
 import { SidemenuComponent } from './components/sidemenu/sidemenu.component';
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
+import { AboutMeComponent } from './components/about-me/about-me.component';
+import { ResumeComponent } from './components/resume/resume.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomepageComponent,
     SidemenuComponent,
-    DashboardComponent],
+    DashboardComponent,
+    AboutMeComponent,
+    ResumeComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
