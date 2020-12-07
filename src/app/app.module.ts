@@ -21,6 +21,7 @@ import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { AboutMeComponent } from './components/about-me/about-me.component';
 import { ResumeComponent } from './components/resume/resume.component';
 import { WorksComponent } from './components/works/works.component';
+import { ContactComponent } from './components/contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { WorksComponent } from './components/works/works.component';
     DashboardComponent,
     AboutMeComponent,
     ResumeComponent,
-    WorksComponent],
+    WorksComponent,
+    ContactComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
