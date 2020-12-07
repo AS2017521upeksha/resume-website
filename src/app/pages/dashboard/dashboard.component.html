@@ -1,0 +1,9 @@
+<mat-sidenav-container class="dashboard">
+    <mat-sidenav #sidenav class="mat-elevation-z5 dashboard__sidenav" style="border: 0px; overflow: hidden;" 
+  (click)="(screenWidth > 840) ? '': sidenav.toggle()" [opened]="screenWidth > 840" [mode]="(screenWidth > 840) ? 'side' : 'over'">
+        <app-sidemenu></app-sidemenu>
+    </mat-sidenav>
+    <mat-sidenav-content>
+        <app-homepage></app-homepage>
+    </mat-sidenav-content>
+</mat-sidenav-container>

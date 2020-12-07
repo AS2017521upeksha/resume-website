@@ -16,10 +16,16 @@ import {TranslateLoader, TranslateModule} from '@ngx-translate/core';
 import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import { PdfViewerModule } from 'ng2-pdf-viewer';
 import { StorageModule } from '@ngx-pwa/local-storage';
+import { HomepageComponent } from './pages/homepage/homepage.component';
+import { SidemenuComponent } from './components/sidemenu/sidemenu.component';
+import { DashboardComponent } from './pages/dashboard/dashboard.component';
 
 @NgModule({
   declarations: [
-    AppComponent],
+    AppComponent,
+    HomepageComponent,
+    SidemenuComponent,
+    DashboardComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
