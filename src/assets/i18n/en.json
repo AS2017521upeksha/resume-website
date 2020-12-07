@@ -1,0 +1,267 @@
+{
+    "login-page-component":{
+        "version":"version",
+        "description":"Customer Relationship Management System by EchonLabs (Private) Limited is a comprehensive cloud-based solution to manage your company's interaction with current and potential customers.",
+        "poweredby":"Powered by",
+        "contact":"Get your own enterprise solution? Contact."
+    },
+    "login-form-component": {
+        "welcome": "WELCOME TO",
+        "description-top": "Login to get in control of things",
+        "description-bottom": "that are best for your vehicle.",
+        "sign-in": "Sign In",
+        "register-as-a-customer": "Register as a Customer",
+        "remember-me": "Remember Me",
+        "password": "Password",
+        "more-options": "More Options",
+        "recover-your-account":"Recover Your Account",
+        "password-error": "Password must have more than 6 characters."
+        
+    },
+    "footer-component": {
+        "copyright":"Copyright",
+        "all-rights-reserved":"All Rights Reserved.",
+        "choose-your-language": "Choose Your Language",
+        "online":"Connected",
+        "offline":"Disconnected"
+    },
+    "home-page-component": {
+        "add-daily-job": "Add Daily Job",
+        "search-for-customers": "Search For Customers",
+        "search-for-vehical": "Search For Vehicle",
+        "add-daily-jop-tooltip": "Go to Add Daily Job",
+        "search-customers-tooltip": "Go to search for Customers",
+        "search-vehicle-tooltip": "Go to Search for Vehicle",
+        "search-promoptions-tooltip": "Go to Search for Promotions",
+        "promotions-discription": "Explore available promotions just for you",
+        "job-history": "Job History",
+        "job-history-discription": "Explore your job history",
+        "reminder-discription": "Explore your reminders",
+        "full-body-wash": "Full body wash",
+        "free waxing": "Free waxing for Crystal Kote.",
+        "free-waxing-discription": "All the diamond cote customers will get free waxing after 6 weeks.",
+        "free-wash": "Free body wash for frequent customers",
+        "free-wash-discription": "If you have visited us morw than 5 times in last 4 months, visit us and grab your free full body wash.",
+        "quick-actions": "Quick Actions",
+        "modules": "Modules",
+        "modules-discription": "Take control and give love to the vehicle",
+        "customer-module-tooltip": "Go to Customers Module",
+        "vehicle-module-tooltip": "Go to Vehicles Module",
+        "bookings-module-tooltip": "Go to Bookings Module",
+        "daily-job-module-tooltip": "Go to Daily Jobs Module",
+        "reminders-module-tooltip": "Go to Reminders Module",
+        "promotion-module-tooltip": "Go to Promotions Module",
+        "report-module-tooltip": "Go to Reports Module",
+        "reference-module-tooltip": "Go to References Module",
+        "activity-log-module-tooltip": "Go to Activity Log Module",
+        "users-module-tooltip": "Go to Users Module",
+        "job-history-module-tooltip": "Go to Job history Module",
+        "body-wash-branch1": "A full body wash done in Dehiwala branch.",
+        "body-wash-branch2": "A full body wash done in Boralesgamuwa branch.",
+        "reload-widget": "Reload Widget",
+        "view-daily-job": "View Daily Jobs",
+        "view-daily-job-tooltip": "View all jobs of your branch"
+        
+    },
+
+    "side-menu-component": {
+        "vehicles": "Vehicles",
+        "booking": "Bookings",
+        "daily-jobs": "Daily Jobs",
+        "reminders": "Reminders",
+        "promotions": "Promotions",
+        "report": "Reports",
+        "activity-log": "Activity Log",
+        "users": "Users",
+        "dashboard": "Dashboard",
+        "search-for-action": "Search For Action",
+        "reference": "Reference",
+        "settings": "Settings"
+        
+    },
+    "customers-component": {
+        "referral-method": "Referral Method",
+        "mobile-phone": "Mobile Phone",
+        "email": "Email",
+        "add-new-customer": "Add New Customer."
+       
+    },
+    "dashboard-component": {
+        "CRM-system": "Customer Relationship Management System",
+        "reset-your-password": "Reset Your Password",
+        "about": "About Us",
+        "log-out": "Log Out",
+        "options": "Options",
+        "toggle-side-drawer": "Toggle Side Drawer",
+        "go-to-the-previous-page": "Go to the Previous Page",
+        "accessibility": "Accessibility",
+        "choose-a-language":"Choose a Language",
+        "keyboard-shortcuts":"Keyboard Shortcuts"
+
+    },
+    "vehicles-component": {
+        "vehicle-number": "Vehicle Number",
+        "vehicle-make": "Vehicle Make",
+        "vehicle-model": "Vehicle Model",
+        "vehicle-model-number": "Vehicle Model Number",
+        "year": "Manufacture Year",
+        "vehicle-colour": "Vehicle Colour"
+        
+    },
+
+    "daily-jobs-component": {
+        "job-state": "Job State",
+        "supervisor": "Supervisor",
+        "service-agent": "Service Agent",
+        "branch": "Branch",
+        "from": "From (MM/DD/YYYY)",
+        "to": "To (MM/DD/YYYY)",
+        "finished": "Finished",
+        "not-finished": "Not Finished",
+        "date-range-to": "Date Range To",
+        "valid-date-required": "Valid date required.",
+        "view-daily-jobs-analytics": "View Daily Jobs Analytics."
+    },
+    "users-component": {
+        "name": "Name of System User",
+        "phone-number": "Phone Number",
+        "email": "Email of System User",
+        "postal-address": "Postal Address of System User",
+        "user-type": "User Type",
+        "managerial-admin": "Managerial Admin",
+        "operational-admin": "Operational Admin",
+        "email-type": "Email"
+       
+    },
+    "common-component": {
+        "name": "Name",
+        "phone-number": "Phone Number",
+        "email": "Email Address",
+        "search": "Search",
+        "customers": "Customers",
+        "clear-all": "Clear All",
+        "all": "All",
+        "postal-address": "Postal Address",
+        "reset-all-fields":"Reset all Fields of the Search Form.",
+        "new": "New",
+        "verified": "Verified",
+        "deleted": "Deleted",
+        "account-state": "Account State",
+        "preffered-comm-method": "Preferred Communication Method",
+        "help-and-support": "Help And Support",
+        "email-phone": "Email Address/ Phone Number",
+        "reset-password": "Reset Password",
+        "resetPassoword-side-discription": "Keep your account secured by maintaining a regularly updated password. Use this form to change your password.",
+        "help-and-sup-discription": "Explore actions you might be interested in",
+        "your-account": "Your Account",
+        "your-account-discription": "This page displays all your basic information regarding your account. Manage everything related to your account through this page, including editing your account details, and many more."  
+        
+        
+
+    },
+    "reference-component":{
+        "manage-system-references": "Manage all system references",
+        "filter": "Filter",
+        "expand-all-sections": "Expand All Sections",
+        "help-discription": "Know your surroundings and explore related actions",
+        "reference-discription": "This page contains the configuration settings for all reference data of the system."        
+    },
+
+    "reset-password-component":{        
+        "resetPassword-discription": "Keep your account secured by having an updated password",
+        "current-password": "Current Password",
+        "new-password": "New Password",
+        "confirm-new-password": "Confirm New Password",
+        "password-error": "Password must have more than 6 characters.",
+        "email-phoneNumber-error": "Valid email or phone number (pattern: 077xxxxxxx) required.",
+        "update-password": "Update Password",
+        "generate": "Generate",
+        "go-to-your-account": "Go To Your Account",
+        "generate-popup": "Randomly generate secure passwords",
+        "save-popup": "Update the Password",
+        "reset-the-form": "Reset the form"
+      
+    },
+
+    "about-page-component": {
+        "product-information": "Product Information",
+        "product-discription": "Customer Relationship Management System by EchonLabs (Private) Limited is a comprehensive cloud-based solution to manage your company's interaction with current and potential customers.",
+        "kleenpark-tagline": "Guardian to Your Vehicle",
+        "echonlab-tagline": "Building Solutions to Facilitate",
+        "find-us-on": "Find us on",
+        "Call-hotline": "Call us on our Hotline",
+        "read-more": "Read More",
+        "hide": "Hide",
+        "kleenPark-story-line1": "KleenPark, launched in 1988 with the objective of giving the local vehicle loving public an opportunity to experience scientific & professional ‘Automotive Detailing’ which was hitherto unknown to Sri Lanka.  Since then the KleenPark concept caught up fast because of the benefits & advantages experienced by our customers.",
+        "kleenPark-story-line2": "Employing professionals & using state-of-the-art equipment & materials in the industry we ensure the best quality & the condition of a vehicle you are proud to drive in. Through continuous education, training and our experience of having detailed nearly a million vehicles over a period of three decades we have kept our promise of delivering only the best.",
+        "kleenPark-story-line3": "On the occasion of celebrating our 30th year anniversary our Founder/Chairman - Ranjan Ratnasena a professional detailer himself gifted the total ownership of KleenPark (Pvt) Limited to his dedicated team of detailers of three decades, while fulfilling his conviction that wealth should be equally shared among those who have rightly earned it.  We are privileged & proud that our mentor has volunteered to guide us right along as we journey towards achieving excellence.",
+        "kleenPark-story-line4": "While acknowledging this precious gift from employer to employee, we assure our valued customers & vehicle loving public that we as a team promise to take KleenPark to the next level of professional Automotive Detailing.",
+        "kleenPark-story-line5": "We say a big Thank You to all our loyal customers for their continued support.  We welcome you to any of our Premium Detail centers to enjoy the KleenPark Experience - you are certain to see & feel the deference.",
+        "the-kleenPark-family": "-The KleenPark Family.-",
+        "echonlab-story-line1": "We are a Tech-Startup based in Sri Lanka comprising of young Tech-Enthusiasts with amazing skills. Our motivation and passion is driven at the sight of our satisfied customers, and on how much of an impact we can make to make this world a better place, as we are the generation that is just stepping in to the drivers' seat.",
+        "echonlab-story-line2": "We custom-tailor solutions to improve the productivity and efficiency of your business so that you can give both your clients and employees a better experience.",
+        "echonlab-story-line3": "We can help you build an online presence for your business with a website, or even help you reach more customers with a mobile application, or even help you to make your business process more efficient with our solutions.",
+        "team-echonLabs": "-Team EchonLabs-"    
+    },
+    
+    "veiw-profile-component": {
+        "echonLabs-administrator": "EchonLabs Administrator",
+        "you-are-member": "You are a member since",
+        "profile": "Profile",
+        "personal-information": "Personal Information",
+        "first-name": "First Name",
+        "last-name": "Last Name",
+        "date-of-birth": "Date of Birth",
+        "system-information": "System Information",
+        "default-branch": "Default Branch",
+        "contact-information": "Contact Information",
+        "mobile-phone-number": "Mobile Phone Number",
+        "second-phone-number": "Second Phone Number",
+        "update": "Update",
+        "mobile-phone": "Mobile Phone",
+        "date-format": "Date of Birth (mm/dd/yyyy)",
+        "customer-first-name": "Customer First Name",
+        "customer-last-name": "Customer Last Name",
+        "custoemr-postal-address": "Customer Postal Address",
+        "first-name-validation": "Valid First Name is required.",
+        "last-name-validation": "Valid Last Name is required.",
+        "date-validation": "Valid date of Birth required(mm/dd/yyyy).",
+        "email": "Email",
+        "email-validation": "Valid Email is required.",
+        "phone-number-validation": "Valid Phone Number required (pattern: 077xxxxxxx).",
+        "phone-number-pattern": "Mobile Phone Number (pattern: 077xxxxxxx)",
+        "second-phone-num-pattern": "Second Mobile Phone Number (pattern: 077xxxxxxx)",
+        "revert-back": "Revert back to previous state"
+
+    },
+    "register-form-component": {
+        "preffered-comm-method": "Preferred Communication Method (Login Using)",
+        "phone-number-pattern": "Mobile Phone Number (pattern: 077xxxxxxx)",
+        "contact-person": "Contact Person",
+        "same-as-above": "Same as above",
+        "someone-else": "Someone else",
+        "referral-method": "Referral Method (How you know about us) ",
+        "create-new-account": "Create New Account",
+        "reset":"Reset",
+        "contact-person-name": "Contact Person name",
+        "person-name-phaseholder": "Customer Contact person name",
+        "name-validation": "Valid Contact person Name is required.",
+        "phone-number": "Contact Person Phone Number"   
+    },
+
+    "report-form-component": {
+        "parameters": "Parameters",
+        "clear-all-tooltip": "Reset all Fields of the Reports Form"        
+    },
+
+    "settings-component": {
+        "monitoring": "Monitoring",
+        "backup": "Backup"
+         
+    }
+
+    
+
+    
+
+}

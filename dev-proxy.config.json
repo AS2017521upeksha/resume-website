@@ -1,0 +1,10 @@
+{
+    "/api/*": {
+        "target": "https://dev.kleenpark.crm.ecityzn.com/api/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug",
+        "pathRewrite": {"^/api": ""}
+    }
+}
+

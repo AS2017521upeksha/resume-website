@@ -1,0 +1,12 @@
+dist
+node_modules
+package-lock.json
+**/.DS_Store
+
+src/api/dist
+arc/api/node_modules
+src/api/package-lock.json
+package-lock.json
+src/api/package-lock.json
+.idea/
+.vscode/
