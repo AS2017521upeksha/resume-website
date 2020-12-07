@@ -1,13 +1,19 @@
 mat-nav-list{
     overflow: hidden;
 }
-mat-list-item{
-    font-weight: 400;
-    margin: auto;
+.mat-list-item-content { /* This rule does NOT work !!! */
     padding: 20px 20px;
-   
-}
-
+  }
+  
+  .item-link {
+    border: 1px solid red;
+    padding: 0;
+  }
+  
+  .item-text {
+    border: 1px solid black;
+    margin: 0;
+  }
 .item a:hover{
     background-color: transparent;
     
