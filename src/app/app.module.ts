@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './material.module';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
-import { UserService } from './services/user.service';
 import { MatBadgeModule} from '@angular/material/badge';
 import { MatAutocompleteModule } from '@angular/material/autocomplete';
 import { DragDropModule } from '@angular/cdk/drag-drop';
@@ -21,6 +20,7 @@ import { SidemenuComponent } from './components/sidemenu/sidemenu.component';
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { AboutMeComponent } from './components/about-me/about-me.component';
 import { ResumeComponent } from './components/resume/resume.component';
+import { WorksComponent } from './components/works/works.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +29,8 @@ import { ResumeComponent } from './components/resume/resume.component';
     SidemenuComponent,
     DashboardComponent,
     AboutMeComponent,
-    ResumeComponent],
+    ResumeComponent,
+    WorksComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -54,7 +55,7 @@ import { ResumeComponent } from './components/resume/resume.component';
     StorageModule.forRoot({ IDBNoWrap: false })
   ],
   providers: [
-    UserService
+   
   ],
   bootstrap: [AppComponent]
 })
