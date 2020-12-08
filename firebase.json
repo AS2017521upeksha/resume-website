@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist\\cityzen-crm",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
